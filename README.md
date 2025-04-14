@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GitUserFan225
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning to code on Github
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me: eidanplaz@gmail.com
 - 😄 Pronouns: he, him
 - ⚡ Fun fact: I hate Goguardian
